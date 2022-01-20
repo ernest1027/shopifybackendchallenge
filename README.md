@@ -15,4 +15,4 @@ The project is hosted on my website at https://www.ernestw.com/shopifychallenge/
 6) Access the web app using http://localhost:3001/ in through your browser!
 
 
-The project was written using the MERN stack. The backend express filed can be found in /src and the front end react files can be found in /src/client/src Feel free to contact me with any feedback!
+The project was written using the MERN stack. The backend express code can be found in /src and the front end react code can be found in /src/client/src Feel free to contact me with any feedback!
